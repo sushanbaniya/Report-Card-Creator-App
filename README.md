@@ -1,1 +1,1 @@
-Based on user entered details this application creates a report card.
+Based on the user entered details this application creates a report card.
